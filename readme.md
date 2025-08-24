@@ -22,7 +22,7 @@ A simple and effective College Management System built using **HTML**, **CSS**, 
 | Technology | Purpose              |
 |------------|----------------------|
 | HTML/CSS   | Front-end UI Design  |
-| PHP/JS     | Backend Development  |
+| PHP        | Backend Development  |
 | MySQL      | Database Management  |
 
 ---
