@@ -1,32 +1,35 @@
-## About Unlimited Edu Firm
-**Unlimited Edu Firm is School & College Information Management System**. School or College can manage student & staff detail with the different helpful module.
-Fees, Payroll, Transaction, Library, Hostel, Attendance, Transport, Assignment, Download, SMS & Email Alert, Online Payment Gateway, User and Role manage with powerful ACL are the Key features of EduFirm. 
+# 🎓 College Management System
 
-## Test IMS Demo (Some Features Disable on Demo)
-URL: http://soft.businesswithtechnology.com 
-Admin Login:
-User: admin@edufirm.com 
-Password: 123
-Account Login:
-User: account@edufirm.com 
-Password: 123
-Library Login:
-User: library@edufirm.com 
-Password: 123
-Staff/Teacher Login:
-User: teacher@edufirm.com 
-Password: 123
-Guardian Login:
-User: guardian@edufirm.com 
-Password: 123
-Student Login:
-User: student@edufirm.com 
-Password: 123
-Test Web Site Demo (Some Features Disable on Demo)
-URL: http://scweb.businesswithtechnology.com 
-Admin Login:
-URL: http://scweb.businesswithtechnology.com/login 
-User: webadmin@edufirm.com 
-Password: 123
+A simple and effective College Management System built using **HTML**, **CSS**, **PHP**, and **MySQL**. This project is designed to streamline various administrative operations such as student record management, course registration, department management, and more. It provides a web-based interface for admin, faculty, and students.
 
-## EduFirm School & College Web Portal CMS - CodeCanyon Item for Sale
+---
+
+## 📌 Features
+
+- 🧑‍🎓 Student Management (Add, Edit, Delete, View)
+- 🧑‍🏫 Faculty & Department Management
+- 📚 Course Enrollment
+- 📝 Attendance Tracking (Basic)
+- 💳 Fees Record (Optional Module)
+- 🔐 Admin Login & Session Management
+- 📋 Responsive User Interfaces using HTML & CSS
+- 🗃️ Data stored in MySQL database
+
+---
+
+## 💻 Technologies Used
+
+| Technology | Purpose              |
+|------------|----------------------|
+| HTML/CSS   | Front-end UI Design  |
+| PHP/JS     | Backend Development  |
+| MySQL      | Database Management  |
+
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sWAGish/College-Management-System.git
+   cd College-Management-System
