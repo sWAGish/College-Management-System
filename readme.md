@@ -63,6 +63,7 @@ Visit: http://localhost/College-Management-System/
 
 📂 Project Structure
 College-Management-System/
+
 ├── config/
 │   └── config.php
 ├── admin/
